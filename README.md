@@ -6,4 +6,4 @@ A research study on Link prediction using Graphs, part of the CPE - 800 projects
 - [x] 1. Researching about the topic and reading research papers about existing implementations.
 - [x] 2. Study the heuristic methods before implementing **ideal** implementations. 
 - [ ] 3. Implement heuristic methods and visualize performance.
-- [ ] 4. Analyze heuristic methods and prepare mid-stage reports 
+- [ ] 4. Analyze heuristic methods and prepare mid-stage reports. 
